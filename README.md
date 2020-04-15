@@ -5,7 +5,7 @@
 
 **Overview**
 
-This is a proof of concept to show a GUI can be created to allow users to login to cyberark and launch applications.
+Small App that can be use to allow users to launch applications installed on Cyberark PSM servers. 
 
 **Details**
 

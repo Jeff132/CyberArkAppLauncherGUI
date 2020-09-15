@@ -5,7 +5,7 @@
 
 **Overview**
 
-Small App that can be use to allow users to launch applications installed on Cyberark PSM servers. 
+Small App that can be used to allow users to launch applications installed on Cyberark PSM servers. 
 
 **Details**
 
